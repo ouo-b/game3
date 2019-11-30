@@ -1,2 +1,5 @@
-# game3
-서커스
+Instructions
+
+1) npm install grunt-cli
+2) npm install
+3) grunt
